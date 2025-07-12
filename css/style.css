@@ -95,8 +95,6 @@ header > .container{
 .sign-up:active{
     background-image: linear-gradient(315deg, rgb(245, 245, 252), rgb(191, 191, 191));
 }
-
-
 /* HERO */
 .hero{
     padding-top: 80px;
@@ -175,12 +173,10 @@ header > .container{
     box-shadow:  -7px -7px 5px #131118,
              7px 7px 5px #000000;
 }
-
 .hero-img{
     opacity: 0.88;
     border-radius: 9px;
 }
-
 /* WORKFLOW */
 .workflow{
     padding-top: 67px;
@@ -232,11 +228,6 @@ header > .container{
     align-items: center;
     margin-bottom: 16px;
 }
-/* .workflow-wrap:hover,
-.workflow-wrap:focus{
-    background-color: #ffffff;
-    color: rgb(93, 93, 255);
-} */
 .workflow-wrap > svg{
     width: 27px;
     height: 27px;
@@ -304,7 +295,6 @@ header > .container{
 .product-list-item:last-child{
     padding-bottom: 80px;
     border-bottom: 1px solid rgb(51, 54, 58); 
-
 }
 .product-title{
     color: var(--main-color);
@@ -327,7 +317,6 @@ header > .container{
     line-height: 1.5;
     letter-spacing: -0.25px;
 }
-
 .product-wrap-pretitle{
     color: rgb(93, 93, 255);
     font-family: "Architects Daughter", cursive;
@@ -366,8 +355,6 @@ header > .container{
     margin-bottom: 8px;
     list-style-image: url('../img/Path.svg');
 }
-
-
 /* TEAM */
 .team{
     padding-top: 80px;
@@ -398,8 +385,6 @@ header > .container{
     max-width: 768px;
     margin-bottom: 80px;
 }
-
-
 .team-list{
     display: flex;
     gap: 24px;
@@ -452,7 +437,6 @@ header > .container{
 .name > .select{
     color: rgb(93, 93, 255);
 }
-
 /* FORMA */
 .forma{
     padding-bottom: 65px;
@@ -481,8 +465,6 @@ header > .container{
     letter-spacing: -0.25px;
     text-align: left;
 }
-
-
 .forma-wrap2{
     display: flex;
     align-items: center;
@@ -503,7 +485,6 @@ header > .container{
     letter-spacing: -0.25px;
     text-align: left;
 }
-
 .forma-wrap2-btn{
     color: rgb(93, 93, 255);
     font-size: 16px;
@@ -522,7 +503,6 @@ header > .container{
     color: rgb(244, 244, 255);
     background-color:  rgb(75, 74, 207);
 }
-
 /* FOOTER */
 footer > .container{
     display: flex;
@@ -573,7 +553,6 @@ footer > .container{
     letter-spacing: 0px;
     text-align: left;
 }
-
 .footer-list-main-head:first-child > a{
     color: rgb(217, 227, 234);
 }
@@ -581,7 +560,6 @@ footer > .container{
 .footer-list-main-head > a:hover{
     color: #ffffff;
 }
-
 .footer-list-icon{
     display: flex;
     justify-content: flex-end;
